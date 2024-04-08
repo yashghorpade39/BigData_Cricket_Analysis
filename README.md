@@ -8,7 +8,7 @@ The Cricket Data Analytics Dashboard addresses the need for cricket enthusiasts 
 
 - Terraform - Infrastructure as Code (IaC)
 - MageAI - Orchestration Tool
-- dbt Cloud - Transformations
+- dbt Cloud, PySpark - Transformations
 - GCP - Google cloud storage, Google cloud functions, BigQuery, Looker Studio
 
 ## Terraform 
